@@ -1,6 +1,6 @@
 # roll20-clone
 
-This template should help get you started developing with Vue 3 in Vite.
+A RPG session manager.
 
 ## Recommended IDE Setup
 
